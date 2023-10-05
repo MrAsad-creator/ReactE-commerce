@@ -1,0 +1,7 @@
+
+
+            ............... Definations ..............
+
+
+Immutably :-
+            Immutably means it always return new state
